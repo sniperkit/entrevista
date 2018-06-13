@@ -26,3 +26,17 @@ _testmain.go
 *.test
 *.prof
 
+vendor
+vendor/
+vendor/*
+vendor/**
+
+dist
+dist/
+dist/*
+dist/**
+
+bin
+bin/
+bin/*
+bin/**
